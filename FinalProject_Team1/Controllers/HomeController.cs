@@ -32,5 +32,9 @@ namespace FinalProject_Team1.Controllers
         {
             return View();
         }
+        public IActionResult DataVisualization()
+        {
+            return View();
+        }
     }
 }
